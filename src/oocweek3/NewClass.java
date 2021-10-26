@@ -12,7 +12,20 @@ package oocweek3;
 public class NewClass {
     
     public NewClass(){
-        System.out.println("improved version of new class");
+        
+        
+        
+        
+        
+        
+        
+        System.out.println("This is my first repository");
+        
+        System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
+        
     }
     
 
